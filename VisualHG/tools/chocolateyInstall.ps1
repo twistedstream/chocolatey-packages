@@ -1,7 +1,6 @@
 ﻿$packageName = 'VisualHG'
 $installerType = 'MSI'
-#$url = 'http://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=visualhg&DownloadId=289940&FileTime=129623969865630000&Build=20218'
-$url = 'C:\Users\pete\Downloads\VisualHG 1.15.msi'
+$url = 'http://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=visualhg&DownloadId=289940&FileTime=129623969865630000&Build=20218'
 $url64 = $url
 $silentArgs = '/quiet'
 $validExitCodes = @(0,3010)
