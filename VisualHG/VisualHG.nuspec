@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>VisualHG</id>
+    <title>VisualHG</title>
+    <version>1.1.5</version>
+    <authors>Bernd Schrader</authors>
+    <owners>twistedstream</owners>
+    <summary>VisualHG</summary>
+    <description>Mercurial Source Control Plugin for MS Visual Studio.  NOTE: Install and uninstall will also refresh Visual Studio 2012 (by running devenv.exe /setup) to properly refresh the source control plug-ins list.</description>
+    <projectUrl>http://visualhg.codeplex.com/</projectUrl>
+    <tags>Visual Studio hg source control</tags>
+    <copyright>Copyright © Bernd Schrader 2008</copyright>
+    <licenseUrl>http://visualhg.codeplex.com/license</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Initial package release.</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
