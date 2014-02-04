@@ -3,7 +3,7 @@
   <metadata>
     <id>VisualHG</id>
     <title>VisualHG</title>
-    <version>1.1.5.1</version>
+    <version>1.1.6.0</version>
     <authors>Bernd Schrader</authors>
     <owners>twistedstream</owners>
     <summary>VisualHG</summary>
@@ -13,7 +13,7 @@
     <copyright>Copyright © Bernd Schrader 2008</copyright>
     <licenseUrl>http://visualhg.codeplex.com/license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>Fixed incorrect source URL.</releaseNotes>
+    <releaseNotes>Updated to latest version of VisualHG.</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
